@@ -28,4 +28,11 @@ A bookmarklet for easily converting a webpage to a PDF.
 # PageEdit
 A bookmarklet enabling the editing of page text without the inspect element.
 ***************
-That's all for now, I'll update soon.
+# Down Right Now?
+A bookmarklet that checks if the current site is down at the moment.
+***************
+# Fun Bookmarklets:
+***************
+# Asteroids
+A fun bookmarklet the turns the site into an asteroids course. Blow up google classroom!
+***************
