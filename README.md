@@ -36,3 +36,9 @@ A bookmarklet that checks if the current site is down at the moment.
 # Asteroids
 A fun bookmarklet the turns the site into an asteroids course. Blow up google classroom!
 ***************
+# Snake
+A fun bookmarklet that opens a virtual window allowing you to play the classic computer game, Snake. What's cool is that it is completely made in Javascript!
+***************
+# 3D Page
+A very interesting bookmarklet that takes the elements on the page and parallaxes them, giving the illusion that the page you're currently on the illusion of 3D. Very cool effect to impress others with.
+***************
