@@ -42,3 +42,9 @@ A fun bookmarklet that opens a virtual window allowing you to play the classic c
 # 3D Page
 A very interesting bookmarklet that takes the elements on the page and parallaxes them, giving the illusion that the page you're currently on the illusion of 3D. Very cool effect to impress others with.
 ***************
+# Flashlight
+Cool flashlight effect on any page. May lag depending on the page.
+***************
+# The Matrix
+Enter the matrix on any page.
+***************
